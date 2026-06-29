@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+Images/
+TitanicData/
+EP_datasets/
+Intel_Image/
+*.csv
